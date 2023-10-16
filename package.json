@@ -17,6 +17,7 @@
   "dependencies": {
     "@vitest/ui": "^0.34.6",
     "react": "^18.2.0",
+    "react-chessboard": "^4.2.3",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
