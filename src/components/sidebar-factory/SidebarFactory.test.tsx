@@ -6,6 +6,6 @@ describe('SidebarFactory', () => {
   test('should render', () => {
     render(<SidebarFactory />);
 
-    expect(screen.getByText(/SIDEBAR FACTORY/)).toBeInTheDocument();
+    expect(screen.getByText(/Create Training Session/)).toBeInTheDocument();
   });
 });
